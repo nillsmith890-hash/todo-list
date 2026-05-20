@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.2-u2.02-251130-2.6 (utf8.uptex) (TeX Live 2026) (preloaded format=uplatex 2026.4.16)  20 MAY 2026 12:32
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.02-251130-2.6 (utf8.uptex) (TeX Live 2026) (preloaded format=uplatex 2026.4.16)  20 MAY 2026 13:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -400,10 +400,18 @@ LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
 (Font)              scaled to size 9.24683pt on input line 32.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 9.24683pt on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 63.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 63.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 63.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 70.
+(Font)              scaled to size 11.09619pt on input line 71.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 70.
+(Font)              scaled to size 11.09619pt on input line 71.
  [1
 
 ] [2]
@@ -415,9 +423,9 @@ File: lstlang1.sty 2025/11/14 1.11b listings language file
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 146.
+(Font)              scaled to size 8.32214pt on input line 147.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 146.
+(Font)              scaled to size 8.32214pt on input line 147.
  [4]
 [5] (./REPORT.aux)
  ***********
@@ -429,12 +437,12 @@ Package rerunfilecheck Info: File `REPORT.out' has not changed.
 (rerunfilecheck)             Checksum: 9DC78666C2C256DB047873296D10AF37;2261.
  ) 
 Here is how much of TeX's memory you used:
- 10812 strings out of 468171
- 162868 string characters out of 5434473
- 796280 words of memory out of 5000000
- 39645 multiletter control sequences out of 15000+600000
- 637238 words of font info for 91 fonts, out of 8000000 for 9000
+ 10814 strings out of 468171
+ 162896 string characters out of 5434473
+ 796276 words of memory out of 5000000
+ 39647 multiletter control sequences out of 15000+600000
+ 637594 words of font info for 93 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  72i,6n,79p,463b,1250s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on REPORT.dvi (5 pages, 28752 bytes).
+Output written on REPORT.dvi (5 pages, 29368 bytes).
